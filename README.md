@@ -1,6 +1,6 @@
-## An Interesting Software Engineering Article
+## [Minimum Lovable Products] (https://medium.com/@mddunn/minimum-lovable-product-fbe5f4b525e5)
 
-An interesting software engineering article I found was about focusing on creating [Minimum Lovable Products] (https://medium.com/@mddunn/minimum-lovable-product-fbe5f4b525e5).
+An interesting software engineering article I found was about focusing on creating Minimum Lovable Products.
 
 > A minimum lovable product is a product increment that solves a small scope of a meaningful business problem (minimum) that is available and reliable, fast, bug and defect-free, actually solves the problem, and is easy — even fun and delightful — to use (lovable). Instead of debating whether to build iteratively OR pursue a minimum lovable product, we must build iteratively AND pursue a minimum lovable product.
 
