@@ -1,4 +1,4 @@
-## [Minimum Lovable Products] (https://medium.com/@mddunn/minimum-lovable-product-fbe5f4b525e5)
+## [Minimum Lovable Products](https://medium.com/@mddunn/minimum-lovable-product-fbe5f4b525e5)
 
 An interesting software engineering article I found was about focusing on creating Minimum Lovable Products.
 
